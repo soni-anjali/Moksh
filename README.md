@@ -11,3 +11,10 @@ There are numerous mental problems affecting the people in modern society, inclu
 
 
 Moksh is a spiritual productivity tool designed for individuals who want to unlock their potential and achieve true balance in life. Our customized spiritual features help you take control of your work, focus on what truly matters, and rejuvenate your mind and spirit. By reading Bhagavad Gita, we become soul conscious and gain the strength to fight life's challenges. With Moksh, you can overcome the mental problems that arise from our body consciousness and find true happiness.
+
+<h2> Do Visit the Website and enjoy the <strong> peace </strong> and <strong> beauty </strong> of <strong> <em> MOKSH </em> </strong> </h2>
+<a href="https://akshitagupta15june.github.io/Moksh/" target="_blank"> VISIT MOKSH </a>
+
+<p> Click the button to visit the website </p>
+
+<button onclick="https://akshitagupta15june.github.io/Moksh/"> MOKSH </button>
